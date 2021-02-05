@@ -8,7 +8,7 @@ Tempore velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad vel
 
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
 
-## Work Experience
+# Work Experience
 ### Music Informatics Consultant & Software Developer
 *Freelance Work*, Jul. 2012 - PRESENT
 * Provided technological/engineering advice for applications at the intersection of music & computer science with focus on deep learning.
@@ -30,11 +30,20 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 * Researched into tangible user interfaces & physical computing platforms for musicians, composers & performers.
 * Designed & programmed embedded hardware for experimental music interfaces.
 
-## Education
+# Education
 ### M.A. in Media Production
+*University of Applied Sciences and Arts Ostwestfalen-Lippe*, Oct. 2015 - Feb. 2017, Lemgo, Germany
+* Majors: Audio Production & Interactive Media}
+* Thesis: *Interactive Scores in Classical Music Production* (Grade: 1.0, best possible in German grade system)
+* Finished as best graduate of the year.
 
 ### Record Engineering ("Tonmeister")
+*Detmold University of Music*, Oct. 2012 - Mar. 2015, Detmold, Germany
+* Majors: Piano, Ear Training & Music Theory
+* Received national scholarship for high-achieving and committed students.
+* No graduation due to research job offer.
 
 ### B.Sc. in Computer Engineering
-
-## Misc
+*University of Paderborn*, Oct. 2007 - Sep. 2012, Paderborn, Germany
+* Majors: Computer Science & Electrical Engineering
+* Thesis: *Development of a CAN Bus Data Logger* (Grade: 1.0, best possible in German grade system)
