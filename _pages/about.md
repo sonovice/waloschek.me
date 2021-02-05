@@ -40,7 +40,7 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 
 **M.A. in Media Production**  
 *University of Applied Sciences and Arts Ostwestfalen-Lippe*, Oct. 2015 - Feb. 2017, Lemgo, Germany
-* Majors: Audio Production & Interactive Media}
+* Majors: Audio Production & Interactive Media
 * Thesis: *Interactive Scores in Classical Music Production* (Grade: 1.0, best possible in German grade system)
 * Finished as best graduate of the year.
 
