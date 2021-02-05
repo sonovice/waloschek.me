@@ -58,13 +58,11 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "**Head of R&D @ Peachnote**<br/><br/>Music Informatics Researcher<br/>Data Scientist<br/>Software Engineer"
   location: "Detmold, Germany"
+  email: "contact@waloschek.me"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sonovice"
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "mailto:contact@waloschek.me"      
 
 defaults:
   # _posts
