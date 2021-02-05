@@ -55,8 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
+  name: "Head of R&D @ Peachnote"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "**Head of R&D @ Peachnote**<br/><br/>Music Informatics Researcher<br/>Data Scientist<br/>Software Engineer"
+  bio    : "Music Informatics Researcher<br/>Data Scientist<br/>Software Engineer"
   location: "Detmold, Germany"
   email: "contact@waloschek.me"
   links:
