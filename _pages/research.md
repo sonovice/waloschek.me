@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+classes: wide
 ---
 
 ## 2020
@@ -14,7 +15,7 @@ in *in Audio Mostly 2020: 15th Conf. on Interaction with Sound – Extended Real
 
 **Identification and Cross-Document Alignment of Measures in Music Score Images**  
 S. Waloschek, A. Hadjakos, and A. Pacha  
-in Proc. of the 20th Int. Society for Music Information Retrieval Conf. (ISMIR), Delft, The Netherlands, 2019.
+in *Proc. of the 20th Int. Society for Music Information Retrieval Conf. (ISMIR), Delft, The Netherlands, 2019.*
 
 **Bacher than Bach? On Musicologically Informed AI-based Bach Chorale Harmonization**  
 A. Leemhuis, S. Waloschek, and A. Hadjakos  
