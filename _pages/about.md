@@ -8,7 +8,7 @@ Tempore velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad vel
 
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
 
-# Work Experience
+## Work Experience
 ### Music Informatics Consultant & Software Developer
 *Freelance Work*, Jul. 2012 - PRESENT
 * Provided technological/engineering advice for applications at the intersection of music & computer science with focus on deep learning.
@@ -30,7 +30,7 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 * Researched into tangible user interfaces & physical computing platforms for musicians, composers & performers.
 * Designed & programmed embedded hardware for experimental music interfaces.
 
-# Education
+## Education
 ### M.A. in Media Production
 *University of Applied Sciences and Arts Ostwestfalen-Lippe*, Oct. 2015 - Feb. 2017, Lemgo, Germany
 * Majors: Audio Production & Interactive Media}
