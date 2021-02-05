@@ -10,6 +10,6 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 
 ## Work Experience
 
-## Eduction
+## Education
 
 ## Misc
