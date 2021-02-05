@@ -84,7 +84,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  classes: wide
+  
 tag_archive:
   type: liquid
   path: /tags/
