@@ -62,6 +62,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sonovice"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:contact@waloschek.me"      
 
 defaults:
   # _posts
