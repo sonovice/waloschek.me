@@ -58,7 +58,7 @@ plugins:
 
 author:
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Head of R&D æ Peachnote\nMusic Informatics Researcher\nData Scientist\nSoftware Engineer"
+  bio    : "Head of R&D @ Peachnote\nMusic Informatics Researcher\nData Scientist\nSoftware Engineer"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
