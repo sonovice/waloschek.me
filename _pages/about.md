@@ -4,7 +4,7 @@ title: "About"
 classes: wide
 ---
 
-I am a music informatics researcher with 10+ years of software developer experience, specializing in deep learning for intelligent music analysis. Obsessive learner with a great interestin new software technologies as well as engaged in creative arts such as music, design & photography
+I am a music informatics researcher with 12+ years of software developer experience, specializing in deep learning for intelligent music analysis. Obsessive learner with a great interest in new software technologies as well as engaged in creative arts such as music, design & photography
 
 
 ## Work Experience
