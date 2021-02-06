@@ -24,7 +24,7 @@ I am a music informatics researcher with 12+ years of software developer experie
 **Research Fellow**  
 *Center of Music and Film Informatics*, Mar. 2015 - Dec. 2020, Detmold, Germany
 * Researched & developed state-of-the-art AI-based approaches for Optical Music Recognition (OMR) tasks & cross-modal music synchronization (score images, symbolic music, audio).
-* Published [scientific papers](research) at top conferences on computer science, music & machine learning (ISMIR, NIME, ICMC, SMC, ECML PKDD, ...)
+* Published [scientific papers](../research) at top conferences on computer science, music & machine learning (ISMIR, NIME, ICMC, SMC, ECML PKDD, ...)
 * Developed tools for crowdsourced annotation of data for deep learning datasets.
 * Planned, co-developed and managed an internationally traveling [interactive audio exhibition](http://www.cemfi.de/research/bthvn-2020) on the occasion of the Beethoven festival year 2020.
 
