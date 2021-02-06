@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Simon Waloschek"
+  name: "Simon R. Waloschek"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "**Head of R&D @ Peachnote**<br/><br/>Music Informatics Researcher<br/>Data Scientist<br/>Software Engineer"
   location: "Detmold, Germany"
