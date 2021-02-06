@@ -10,7 +10,7 @@ I am a music informatics researcher with 12+ years of software developer experie
 ## Work Experience
 
 **Head of Research & Development**  
-*Peachnote GmbH*, Jan. 2021 - PRESENT, Munich, Germany
+*Peachnote*, Jan. 2021 - PRESENT, Munich, Germany
 
 **Music Informatics Consultant & Software Developer**  
 *Freelance Work*, Jul. 2012 - PRESENT
