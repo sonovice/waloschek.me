@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - MIDI
+  - Music
   - DAW
   - Docker
   - Data Science
