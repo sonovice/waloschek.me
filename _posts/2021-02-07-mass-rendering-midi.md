@@ -1,7 +1,8 @@
 ---
 title: "Mass Rendering of MIDI files with VSTs"
+date: 2021-02-07T14:46:30+01:00
 categories:
-  - Blog
+  - blog
 tags:
   - MIDI
   - DAW
